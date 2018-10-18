@@ -1,0 +1,4 @@
+com.mitrais.brainstorm.persistence
+com.mitrais.brainstorm.persistence.config
+com.mitrais.brainstorm.persistence.domain
+com.mitrais.brainstorm.persistence.repository
